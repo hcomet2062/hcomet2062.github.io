@@ -2,6 +2,11 @@
   float: left;
 }
 
+#intro {
+  float: right;
+  font-size: 30px;
+}
+
 
 
 /* Add a black background color to the top navigation */
