@@ -1,10 +1,10 @@
 #avatar {
-  float: left;
+  align: left;
 }
 
 #intro {
   float: right;
-  font-size: 100px;
+  font-size: 40px;
 }
 
 
