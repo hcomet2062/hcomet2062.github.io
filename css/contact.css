@@ -1,4 +1,83 @@
 
+/* Add a hover effect if you want */
+.fa-youtube:hover {
+  opacity: 0.7;
+}
+
+.fa-linkedin:hover {
+  opacity: 0.7;
+}
+
+.fa-instagram:hover {
+  opacity: 0.7;
+}
+
+.fa-skype:hover {
+  opacity: 0.7;
+}
+
+.fa-envelope:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+.fa-youtube {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  /*border-radius: 50%; */
+  background: #bb0000;
+  color: white;
+}
+
+.fa-linkedin {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  /*border-radius: 50%; */
+  background: #007bb5;
+  color: white;
+}
+
+.fa-instagram {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  /*border-radius: 50%; */
+  background: #125688;
+  color: white;
+}
+
+.fa-skype {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  /*border-radius: 50%; */
+  background: #00aff0;
+  color: white;
+}
+
+.fa-envelope {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  /*border-radius: 50%; */
+  background: #dd4b39;
+  color: white;
+}
+
+
 body {
     margin: 60px auto;
     width: 70%;
