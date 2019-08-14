@@ -1,8 +1,14 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+}
+
 #avatar {
   float: left;
 }
 
 #intro {
+  top-margin: 10px;
   font-size:1em;
 }
 
