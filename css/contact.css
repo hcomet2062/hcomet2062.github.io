@@ -17,20 +17,6 @@ p {
     color: #333;
 }
 
-#avatar {
-  float: left;
-  margin: 2px;
-}
-
-#intro {
-  top-margin: 10px;
-}
-
-#instruments {
-    float: right;
-    margin: 2px;
-}
-
 
 
 /* Add a black background color to the top navigation */
