@@ -26,6 +26,11 @@ p {
   top-margin: 10px;
 }
 
+#instruments {
+    float: right;
+    margin: 2px;
+}
+
 
 
 /* Add a black background color to the top navigation */
