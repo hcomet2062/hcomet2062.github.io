@@ -2,7 +2,7 @@
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 500px;
+  width: 50%;
   position: relative;
   margin: auto;
   float: left;
@@ -58,6 +58,13 @@
   padding: 8px 12px;
   position: absolute;
   top: 0;
+}
+
+.dot-container {
+    text-align: center;
+    padding: 20px;
+    background: #ddd;
+    width: 50%
 }
 
 /* The dots/bullets/indicators */
