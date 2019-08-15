@@ -1,7 +1,10 @@
 * {box-sizing:border-box}
 img {vertical-align: middle;}
 
-.container{float: left;}
+.container{
+  float: left;
+  margin: 5px;
+}
 
 /* Slideshow container */
 .slideshow-container {
