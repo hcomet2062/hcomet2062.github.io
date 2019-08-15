@@ -104,6 +104,10 @@ img {vertical-align: middle;}
   margin: 10px;
 }
 
+.row {
+  width: 70%;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
