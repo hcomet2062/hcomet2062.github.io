@@ -15,7 +15,7 @@ img {vertical-align: middle;}
 
 /* Hide the images by default */
 .mySlides {
-  display: none;
+  visibility: hidden;
 }
 
 
