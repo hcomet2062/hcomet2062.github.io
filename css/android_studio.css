@@ -1,8 +1,7 @@
-
 * {box-sizing:border-box}
 img {vertical-align: middle;}
 
-.container-BMI{
+.container{
   float: left;
   margin: 10px;
 }
@@ -98,11 +97,6 @@ img {vertical-align: middle;}
 @keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
-}
-
-#calc{
-  float: right;
-  margin: 10px;
 }
 
 body {
