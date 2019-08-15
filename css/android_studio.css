@@ -99,6 +99,11 @@ img {vertical-align: middle;}
   to {opacity: 1}
 }
 
+#calc{
+  float: right;
+  margin: 10px;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
