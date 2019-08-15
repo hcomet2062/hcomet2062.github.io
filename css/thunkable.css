@@ -1,12 +1,13 @@
 * {box-sizing:border-box}
 img {vertical-align: middle;}
 
+.container{float: left;}
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
   position: relative;
   margin: auto;
-  float: left;
 }
 
 /* Hide the images by default */
