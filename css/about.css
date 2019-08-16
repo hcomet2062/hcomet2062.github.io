@@ -1,5 +1,7 @@
 body {
     background-image: url("/img/about_background.jpg");
+    background-repeat: no-repeat;
+    background-position: left top;
     margin: 60px auto;
     width: 70%;
 }
