@@ -99,6 +99,10 @@ img {vertical-align: middle;}
   to {opacity: 1}
 }
 
+.list{
+  width: 50%;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
