@@ -1,3 +1,23 @@
+/* Add a hover effect if you want */
+.fa-youtube:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+.fa-youtube {
+  padding: 20px;
+  margin: 5px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  background: #bb0000;
+  color: white;
+  float: left;
+}
+
+
 body {
     margin: 60px auto;
     width: 70%;
