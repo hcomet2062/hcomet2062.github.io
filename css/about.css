@@ -1,7 +1,13 @@
-body {
+html{
     background-image: url("/img/about_background.jpg");
     background-repeat: no-repeat;
-    background-position: left top;
+    background-position: center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
     margin: 60px auto;
     width: 70%;
 }
