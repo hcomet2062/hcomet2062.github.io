@@ -134,9 +134,9 @@ a {
     color: #999;
 }
 
-h1, h2, ul {color: white;}
+h1, ul {color: white;}
 
-h3 {color: red;}
+h2, h3 {color: red;}
 
 
 p {
