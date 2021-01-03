@@ -134,10 +134,7 @@ a {
     color: #999;
 }
 
-h1, ul {color: white;}
-
-h2, h3 {color: red;}
-
+h1, h2, h3, ul {color: white;}
 
 p {
     font-size: 1.1em;
